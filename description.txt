@@ -9,3 +9,6 @@ Diffuse Flows: This attribute represent a specific type of diffuse flow in the c
 Zone 1 Power Consumption in KiloWatts (KW)
 Zone 2 Power Consumption in KW
 Zone 3 Power Consumption in KW
+
+
+To download dataset please check this link : https://www.kaggle.com/competitions/EnsiasAIClub-CK/data
