@@ -1,0 +1,11 @@
+The data has observations in 10-minute windows starting from January 1st, 2017, all the way through December 30th of the same year. Some of the features are:
+
+Date Time: Time window of ten minutes in the format "dd/mm/yyyy hour:minute:second"
+Temperature: Weather Temperature in °C
+Humidity: Weather Humidity in %
+Wind Speed: Wind Speed in km/h
+General Diffuse Flows: The general diffuse flows in the city, which may include air or water flows.
+Diffuse Flows: This attribute represent a specific type of diffuse flow in the city.
+Zone 1 Power Consumption in KiloWatts (KW)
+Zone 2 Power Consumption in KW
+Zone 3 Power Consumption in KW
